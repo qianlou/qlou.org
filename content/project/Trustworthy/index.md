@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Trustworthy Deep Learning
+summary: As Deep Learning systems are increasingly being deployed in real-world applications, it is critical to ensure that these systems are behaving responsibly and are trustworthy.  To this end, there has been growing interest from researchers and practitioners to develop and deploy ML models and algorithms that are not only accurate, but also secure, privacy-preserving, fair, and robust. This broad area of research is commonly referred to as trustworthy ML. 
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
