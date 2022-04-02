@@ -1,8 +1,8 @@
 ---
 title: Trustworthy Deep Learning
 summary: As Deep Learning systems are increasingly being deployed in real-world applications, it is critical to ensure that these systems are behaving responsibly and are trustworthy.  To this end, there has been growing interest to develop and deploy ML models and algorithms that are not only accurate, but also secure, privacy-preserving, fair, and robust. 
-tags:
-- Deep Learning
+
+
 date: "2019-02-14T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

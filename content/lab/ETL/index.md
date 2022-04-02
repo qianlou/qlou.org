@@ -2,9 +2,6 @@
 title: Welcome to ETL lab at UCF
 subtitle: ETL means Efficient Trustworthy Learning. In ETL lab, we focus on improving the efficiency, privacy and security of deep learning on both computer vision and natural language processing tasks by designing novel algorithms, models, and systems.
 
-
-
-
 # Summary for listings and search engines
 summary: Multiple fully-funded graduate research assistantships are available! Drop me your CV if you are interested.
 
@@ -12,7 +9,7 @@ summary: Multiple fully-funded graduate research assistantships are available! D
 projects: []
 
 # Date published
-date: "2022-04-02 T00:00:00Z"
+date: "2022-04-02T00:00:00Z"
 
 # Date updated
 lastmod: "2022-04-02T00:00:00Z"
@@ -32,7 +29,7 @@ image:
   preview_only: false
 ---
 
-- <span style="color:red"> Multiple fully-funded [Ph.D. positions ](https://www.ucf.edu/catalog/graduate/#/programs/Bk4tAeOou?bc=true&bcCurrent=Computer%20Science%20PhD&bcGroup=College%20of%20Engineering%20and%20Computer%20Science&bcItemType=programs)(TAs/RAs) are available, please send me your CV if you are interested. 
+- <span style="color:red"> Multiple fully-funded [Ph.D. positions ](https://www.ucf.edu/catalog/graduate/#/programs/Bk4tAeOou?bc=true&bcCurrent=Computer%20Science%20PhD&bcGroup=College%20of%20Engineering%20and%20Computer%20Science&bcItemType=programs)(TAs/RAs) are available, please send me your CV, transcript, TOEFL & GRE scores if you are interested. 
 
 - If you are a current undergraduate or master student at UCF, please contact me if you would like to work with me. Visting scholars are also welcome.  
 

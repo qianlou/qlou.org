@@ -3,8 +3,6 @@
 title: Efficient Deep Learning
 summary: Deep learning has dramatically improved the state-of-the-art in self-driving cars, language models, games, science and many other domains. However, the large model size and computing requirements pose challenges for further market penetration. We target to improve the applicability of deep learning, by creating data efficient deep learnng models, and tremendously improving computational efficiency. 
 
-tags:
-- Efficient Deep Learning
 date: "2017-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
