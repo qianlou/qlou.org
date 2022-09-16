@@ -28,7 +28,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Greetings! I am an incoming tenure-track assistant professor in the computer science department at the [University of Central Florida (UCF)](https://www.ucf.edu/) since 2022 Fall.  Now I am a senior research scientist at the Samsung Research AI center (Mountain View, CA). I obtained my M.S. and Ph.D. degrees from Indiana University in 2019 and 2021, respectively. 
+Greetings! I am a tenure-track assistant professor of computer science department at [University of Central Florida (UCF)](https://www.ucf.edu/).  Prior that, I was a senior research scientist at Samsung Research AI center (Mountain View, CA). I obtained my M.S. and Ph.D. degrees from Indiana University in 2019 and 2021, respectively. 
 
 My research focuses on improving the efficiency, privacy, and security of deep learning on both computer vision and natural language processing tasks by designing novel algorithms, models, and systems.  
 <!-- I recently put efforts into the intersection of machine learning and security/privacy, i.e., privacy-preserving machine learning based on private primitives, e.g., Fully Homomorphic Encryption, Multi-Party Computation, Differential privacy, etc. -->
