@@ -28,7 +28,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Greetings! I am a tenure-track assistant professor of computer science department at [University of Central Florida (UCF)](https://www.ucf.edu/).  Prior that, I was a senior research scientist at Samsung Research AI center (Mountain View, CA). I obtained my M.S. and Ph.D. degrees from Indiana University in 2019 and 2021, respectively. 
+Greetings! I am a tenure-track assistant professor of computer science department and a faculty member of cuber security and privacy cluster at [University of Central Florida (UCF)](https://www.ucf.edu/). At UCF, I lead Efficient and Trustworthy Learning [ETL](https://qlou.org/lab/etl/) lab to improve the security and privacy of machine learning. Prior that, I was a senior research scientist at Samsung Research AI center (Mountain View, CA). I obtained my M.S. and Ph.D. degrees from Indiana University in 2019 and 2021, respectively. 
 
 My research focuses on improving the efficiency, privacy, and security of deep learning on both computer vision and natural language processing tasks by designing novel algorithms, models, and systems.  
 <!-- I recently put efforts into the intersection of machine learning and security/privacy, i.e., privacy-preserving machine learning based on private primitives, e.g., Fully Homomorphic Encryption, Multi-Party Computation, Differential privacy, etc. -->
